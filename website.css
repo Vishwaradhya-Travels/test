@@ -1,0 +1,42 @@
+body
+{
+background-color: #edcb64;
+}
+.top-container
+{
+ line-height: 0.2;
+background-color: #ccffcc;
+width: 100%;
+height: 500px;
+margin: 0 auto 0 auto;
+}
+.middle-container
+{
+ line-height: 0.2;
+background-color: #ffe6ff;
+width: 100%;
+height: 500px;
+margin: 0 auto 0 auto;
+}
+.bottom-container
+{
+ line-height: 0.2;
+background-color: #ffcce0;
+width: 100%;
+height: 500px;
+margin: 0 auto 0 auto;
+}
+h1
+{
+margin: 0 auto 0 auto;
+}
+.beach
+{
+width: 50%;
+height: 400px;
+}
+.taxi
+{
+width: 50%;
+height: 350px;
+}
